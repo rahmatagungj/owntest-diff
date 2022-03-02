@@ -1,0 +1,14 @@
+{
+  "name": "@rahmatagungj/owntest-diff",
+  "version": "0.0.1",
+  "description": "This package will finding differences between two object or arrays",
+  "main": "owntest-diff.js",
+  "keywords": [
+    "testing",
+    "framework",
+    "simple",
+    "javascript"
+  ],
+  "author": "Rahmat Agung Julians",
+  "license": "ISC"
+}
